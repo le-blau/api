@@ -25,3 +25,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# コンテナ内で実行したコマンドの履歴
+/.ash_history
+/.irb_history
